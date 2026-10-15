@@ -57,19 +57,5 @@ Built for the hackathon problem statement: *"Beyond the Waiting Line: Connecting
 - Error background: `#FBE7E2`, text: `#8C2F24`
 
 ---
-
-## 🚀 Running Locally
-
-```bash
-# Install dependencies
-npm install
-
-# Start Vite development server
-npm run dev
-
-# Build production bundle
-npm run build
-```
-
-The application runs on `http://localhost:5173/`.
+on runs on `http://localhost:5173/`.
 
